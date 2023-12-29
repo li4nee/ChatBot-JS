@@ -4,7 +4,7 @@ let chatbot = document.querySelector(".chatbot");
 let chat_input_area = document.querySelector(".chat-input textarea");
 let togglerclass= document.querySelector(".chatbot_toggler")
 const 
-apikey="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";
+apikey="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";
 let phone_btn =document.querySelector(".phone_btn");
 
 //chat banaune.
